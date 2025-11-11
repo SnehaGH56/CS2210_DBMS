@@ -124,17 +124,15 @@ Complete SQL lab reference — from basics to advanced DB programming
 ---
 
 ## 🚀 Quick Start
-
-bash
 # Clone the repository
-git clone https://github.com/friendsusername/CS2210_DBMS.git
+git clone https://github.com/SnehaGH56/CS2210_DBMS.git
 cd CS2210_DBMS
 
 # Open your favorite SQL client
 # MySQL Workbench | phpMyAdmin | DBeaver | DataGrip
+```
 
-
-sql
+```sql
 -- Execute labs in sequence
 SOURCE Lab01_DDL_DML_Operations.sql;
 SOURCE Lab02_CRUD_Operations.sql;
@@ -148,7 +146,7 @@ SOURCE Lab03_Built_In_Functions.sql;
 
 <div align="center">
 
-| 🎯 *Comprehensive* | 💡 *Hands-On* | 🔍 *Documented* |
+| 🎯 **Comprehensive** | 💡 **Hands-On** | 🔍 **Documented** |
 |:-------------------:|:---------------:|:-----------------:|
 | 8 full lab programs | Real-world scenarios | Explained with comments |
 | Step-by-step learning | Covers all SQL topics | Practical examples |
@@ -160,12 +158,12 @@ SOURCE Lab03_Built_In_Functions.sql;
 
 ### 🌟 What’s Included
 
-- *📖 Full SQL Programs* — From schema creation to complex queries  
-- *✅ Expected Outputs* — To verify your results  
-- *🎯 Gradual Difficulty* — Builds confidence step by step  
-- *🏢 Real-Life Datasets* — University, Company & E-commerce databases  
-- *⚡ Optimization Tips* — Learn indexing and query performance  
-- *🔒 Secure Coding* — Write safe and efficient SQL  
+- **📖 Full SQL Programs** — From schema creation to complex queries  
+- **✅ Expected Outputs** — To verify your results  
+- **🎯 Gradual Difficulty** — Builds confidence step by step  
+- **🏢 Real-Life Datasets** — University, Company & E-commerce databases  
+- **⚡ Optimization Tips** — Learn indexing and query performance  
+- **🔒 Secure Coding** — Write safe and efficient SQL  
 
 ---
 
@@ -189,11 +187,10 @@ graph LR
     style B fill:#2196F3
     style C fill:#FF9800
     style D fill:#9C27B0
-
+```
 
 <div align="center">
 
 *Start small → Strengthen fundamentals → Master advanced database programming*
 
 </div>
-
